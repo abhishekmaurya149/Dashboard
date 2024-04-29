@@ -1,0 +1,2 @@
+npm i dotenv express mongoose body-parser cors helmet morgan 
+
